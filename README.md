@@ -4,13 +4,11 @@
 <h2 align="center">📱 guiscrcpy</h2>
 
   <p align="center">
-    A simple, pluggable, graphical user interface for the fastest Android screen mirroring software, <a href="https://github.com/Genymobile/scrcpy">scrcpy</a>
+    A complete Solution dor screen mirroring your phone into the pc for the fastest Android screen mirroring software, <a href="https://github.com/Genymobile/scrcpy">scrcpy</a>
   </p>
 </p>
 
 
-> [!WARNING]  
-> This repository is archived. Please see [#348](https://github.com/srevinsaju/guiscrcpy/348) for more information.
 
 <div align="center">
 
