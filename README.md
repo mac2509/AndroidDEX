@@ -1,15 +1,15 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/srevinsaju/guiscrcpy/master/guiscrcpy/ui/ui/guiscrcpy_logo.png" alt="guiscrcpy logo" width=128 height=128>
 
-<h2 align="center">📱 guiscrcpy</h2>
+<h2 align="center">📱 AndroidDEX</h2>
 
   <p align="center">
-    A complete Solution dor screen mirroring your phone into the pc for the fastest Android screen mirroring software, <a href="https://github.com/Genymobile/scrcpy">scrcpy</a>
+    A complete Solution for screen mirroring your phone into the pc for the fastest Android screen mirroring software, <a href="https://github.com/Genymobile/scrcpy">scrcpy</a>
   </p>
 </p>
 
 
-
+<--
 <div align="center">
 
 
@@ -27,7 +27,7 @@
 ![image of guiscrcpy](docs/img/screenshot.jpg)
 </div>
 
-
+-->
 
 ![Live example of guiscrcpy](https://raw.githubusercontent.com/guiscrcpy/guiscrcpy.github.io/master/img/guiscrcpy.gif)
 
