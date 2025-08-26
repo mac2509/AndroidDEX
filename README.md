@@ -29,9 +29,9 @@
 
 -->
 
-![Live example of guiscrcpy](https://raw.githubusercontent.com/guiscrcpy/guiscrcpy.github.io/master/img/guiscrcpy.gif)
+![Live example of AndroidDEX](https://raw.githubusercontent.com/guiscrcpy/guiscrcpy.github.io/master/img/guiscrcpy.gif)
 
-guiscrcpy is a multiplatform, ready-to-use GUI layer for Android to PC screen mirroring written in the advancing programming language python3 for the most award winning open-source android screen mirroring system -- `scrcpy` located on `https://github.com/genymobile/scrcpy/` by [@rom1v](https://github.com/rom1v)
+AndroidDEX is a multiplatform, software to for mirroring Android to PC screen mirroring written in python for scrcpy located on `https://github.com/genymobile/scrcpy/` by [@rom1v](https://github.com/rom1v)
 
 <br>
 
